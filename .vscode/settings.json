@@ -1,0 +1,38 @@
+{
+  "java.configuration.updateBuildConfiguration": "disabled",
+  "java.import.gradle.enabled": false,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "bin/": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true,
+    "**/*~": true
+  },
+  "C_Cpp.default.configurationProvider": "vscode-wpilib",
+  "files.associations": {
+    "*.inc": "cpp",
+    "*.mac": "cpp",
+    "matrixfunctions": "cpp",
+    "array": "cpp",
+    "*.tcc": "cpp",
+    "bitset": "cpp",
+    "functional": "cpp",
+    "random": "cpp",
+    "future": "cpp",
+    "istream": "cpp",
+    "new": "cpp",
+    "ostream": "cpp",
+    "span": "cpp",
+    "sstream": "cpp",
+    "streambuf": "cpp",
+    "type_traits": "cpp",
+    "tuple": "cpp",
+    "valarray": "cpp"
+  }
+}
